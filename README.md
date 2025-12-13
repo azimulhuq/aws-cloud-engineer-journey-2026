@@ -25,7 +25,7 @@ Transition from cashier to Cloud Engineer through dedicated learning and hands-o
 
 ## 📊 Progress
 **Week 1**: Environment setup ✅  
-**Total Study Hours**: 4 / 1000 hours
+**Total Study Hours**: 5 / 1000 hours
 
 ## 🚀 Projects
 Coming soon...
