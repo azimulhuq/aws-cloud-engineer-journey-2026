@@ -54,3 +54,37 @@ This is my ONLY path forward.
 
 Signed: Azimul Huq
 Date: December 11, 2025
+
+---
+
+## January 6, 2026 - THE RESTART
+
+### What Happened
+I took a break during the holidays. I felt guilty. I avoided coming back.
+
+But tonight, I'm here again.
+
+### Why I'm Back
+I want to change my current job. I am capable of more but stuck in a different path and my family deserve more.
+
+### What's Different This Time
+1. I came back (didn't quit permanently)
+2. I have a mentor checking on me
+3. I'm adjusting my timeline to be realistic
+4. I'm committing to 15 minutes minimum daily
+5. I will NOT disappear for weeks again
+
+### My New Commitment
+- If I miss 2 days, I message my mentor
+- 15 minutes minimum, every single day
+- GitHub commit daily (keeps me honest)
+- Weekly check-ins every Sunday 9 PM
+
+**I'm not the person who quit 3.5 years ago.**
+**I'm not the person who stopped in December.**
+**I'm the person who KEEPS COMING BACK.**
+
+Signed: Azimul Huq
+Date: January 6, 2026
+
+**LET'S GO.** 🚀
