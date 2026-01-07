@@ -10,10 +10,12 @@
 ## 🎯 Mission
 Transition from cashier to Cloud Engineer through dedicated learning and hands-on AWS projects.
 
-## 📚 Certification Path
-- [ ] AWS Certified Cloud Practitioner (Target: January 20, 2026)
-- [ ] AWS Certified Solutions Architect - Associate (Target: March 31, 2026)
-- [ ] AWS Certified Developer - Associate (Target: June 30, 2026)
+**Status:** 🟡 RESTARTED - January 6, 2026
+
+## 📚 Certification Path (REVISED)
+- [ ] AWS Certified Cloud Practitioner (Target: February 28, 2026)
+- [ ] AWS Certified Solutions Architect - Associate (Target: May 15, 2026)
+- [ ] AWS Certified Developer - Associate (Target: August 15, 2026 - optional)
 
 ## 💻 Core Skills
 - [ ] Linux System Administration
@@ -24,12 +26,20 @@ Transition from cashier to Cloud Engineer through dedicated learning and hands-o
 - [ ] CI/CD Pipelines
 
 ## 📊 Progress
-**Week 1**: Environment setup ✅  
-**Total Study Hours**: 5 / 1000 hours
+**Week 1**: Environment setup ✅ (Dec 2025)
+**Restart**: January 6, 2026 ✅
+**Study Hours**: 4 / 1000 hours
+**Current Focus**: Rebuilding momentum, Linux + AWS basics
 
+## 📝 Learning Log
+- December 10-13, 2025: Initial setup and learning
+- December 14 - January 5: Holiday break (kids sick, family time)
+- **January 6, 2026: RESTART - Back on track with adjusted timeline**
+
+---
 ## 🚀 Projects
 Coming soon...
 
 ---
 
-*Updated: December 11, 2025*
+*Updated: January 06, 2026*
