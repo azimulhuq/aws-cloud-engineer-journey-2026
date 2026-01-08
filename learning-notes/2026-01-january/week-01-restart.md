@@ -66,6 +66,8 @@
 - 15 min minimum: Linux command review
 - 1-2 hours if energy allows: Coursera Week 1
 
-**Actual:** [Update tomorrow night]
+**Actual:** 45 minutes
 
----
+- Linux command review for 15 minutes
+- Coursera Week 1 for 15 minutes
+- Introduction to Cloud 101 from AWS for 15 minutes
