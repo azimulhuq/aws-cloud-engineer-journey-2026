@@ -71,3 +71,35 @@
 - Linux command review for 15 minutes
 - Coursera Week 1 for 15 minutes
 - Introduction to Cloud 101 from AWS for 15 minutes
+
+### Day 3 - January 9, 2026 (Thursday - Day Off)
+
+**Study Hours:** 1 hour
+
+**What Happened:**
+- Stayed up late Wednesday watching movie (MISTAKE!)
+- Was sleepy all day Thursday
+- Only managed 1 hour of Linux practice
+- Learned important lesson: Late nights kill study days
+
+**Linux Practice (1 hour):**
+- Reviewed navigation commands: pwd, ls, cd
+- Practiced file operations: touch, cat, cp, mv, rm
+- Worked on permissions: chmod 755, 644
+- Piping practice: |, >, >>
+
+**What I Learned:**
+- Need early bedtime before study days
+- 1 hour is better than 0 hours
+- Consistency matters more than perfection
+
+**Tomorrow's Commitment:**
+- 5 HOURS STUDY (no excuses!)
+- Early bed tonight (10:30 PM)
+- Wake up 8:00 AM sharp
+- Follow mentor's 5-hour plan
+
+**Accountability:**
+- Reported honestly to mentor ✅
+- No excuses, just truth ✅
+- Still 10/10 committed ✅
